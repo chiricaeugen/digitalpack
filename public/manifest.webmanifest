@@ -1,0 +1,12 @@
+{
+  "name": "DigitalPack",
+  "short_name": "DigitalPack",
+  "description": "Challenge-uri în grupuri mici (2–5) cu validare socială.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
